@@ -1,0 +1,7 @@
+============================================ 
+RAPTOR.FITT V2 SETUP LOG 
+Started: Sun 11/09/2025 19:00:13.33 
+============================================ 
+[STEP 0/8] Checking prerequisites... 
+[CHECK] Looking for Flutter... 
+[ERROR] Flutter not found in PATH 

@@ -1,0 +1,8 @@
+============================================ 
+RAPTOR.FITT V2 SETUP LOG 
+Started: Tue 11/11/2025 19:16:09.14 
+============================================ 
+[STEP 0/8] Checking prerequisites... 
+[CHECK] Looking for Flutter... 
+Error: PowerShell executable not found.                        
+       Either pwsh.exe or PowerShell.exe must be in your PATH. 

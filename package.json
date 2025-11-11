@@ -1,0 +1,15 @@
+{
+  "name": "raptor.fitt.v2",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
